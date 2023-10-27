@@ -109,7 +109,7 @@ C E <BR>
 ## Sample Output
 ['A', 'B', 'C', 'D', 'E']
 ## Output 
-![](1.png)
+![1.png](https://github.com/RanjithD18/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/blob/main/ExpNo%201/1.png)
 ![](2.png)
 ## Result:
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
